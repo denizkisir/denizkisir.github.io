@@ -1,0 +1,27 @@
+- title: home
+  url: /
+  external: false
+
+- title: about
+  url: /about
+  external: false
+
+- title: resume
+  url: /resume
+  external: false
+
+- title: linkedin
+  url: https://linkedin.com/in/denizkisir
+  external: true
+
+- title: github
+  url: https://github.com/denizkisir
+  external: true
+  
+- title: stackoverflow
+  url: https://stackoverflow.com/users/7018932/denizkisir
+  external: true
+  
+- title: mail
+  url: mailto:denizkisir@gmail.com
+  external: true  

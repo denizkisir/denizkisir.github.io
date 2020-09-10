@@ -1,0 +1,21 @@
+<footer class="footer">
+  {% for menuItem in site.data.menus %}
+  {% if menuItem.external != true %}
+  <a class="footer_item" href={{menuItem.url}}>{{menuItem.title}}</a>
+  {% endif %}
+  {% endfor %}
+  <br />
+  {% for menuItem in site.data.menus %}
+  {% if menuItem.external %}
+  <a class="footer_item" target="_blank" href="{{menuItem.url}}">{{menuItem.title}}</a>
+  {% endif %}
+  {% endfor %}
+  <hr />
+  <span class="footer_item">&copy; {{ site.time | date: "%Y" }} - Deniz Kısır. All rights reserved.</span>
+</footer>
+<script src="/assets/js/main.js" defer="defer"></script>
+<script src="/assets/js/galite.js"></script>
+<script>
+  var galite = galite || {};
+  galite.UA = "{{ site.google_analytics }}";
+</script>

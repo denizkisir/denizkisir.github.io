@@ -1,0 +1,66 @@
+# Site settings
+title: Deniz Kısır # site title
+description: >- # site description
+  Deniz Kısır - Personal Web Page
+lang: en-US # default lang
+timezone: Europe/Istanbul # set your timezone
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Deniz Kısır # author name
+  bio: ['Hello World, I am Deniz Kısır.', 'I am software developer', 'that working using .net technologies.', 'I am based in Izmir, Türkiye.']    
+  email: denizkisir@gmail.com # your contact adress
+
+# Url settings
+url: "https://www.denizkisir.com"
+baseurl:
+permalink: /:title/
+google_analytics: UA-86459330-1
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Build settings
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - node_modules
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
