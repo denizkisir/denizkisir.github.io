@@ -39,9 +39,16 @@ Bachelor's Degree - Computer Engineering
 
 ## Work Experience
 
+Inveon
+<br />
+05.2021 - Present
+<br />
+Senior Software Developer
+
+
 Advanco SA
 <br />
-02.2020 - Present
+02.2020 - 05.2021
 <br />
 Software Developer
 
