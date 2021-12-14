@@ -9,27 +9,21 @@ comments: false
 
 C#
 <br />
-ASP.NET Web Forms / ASP.NET MVC / ASP.NET Web API
+.NET 5 / .NET Core 3.1
 <br />
-Web Services / WCF
-<br />
-Windows Forms
-<br />
-HTML / CSS / JavaScript
-<br />
-Bootstrap
-<br />
-JQuery / KnockoutJS / AngularJS / Angular / TypeScript
+MVC / Web API
 <br />
 Entity Framework / LINQ
 <br />
-SQL Server / TSQL
+SQL Server / MySQL
 <br />
-MongoDB / Redis
-<br />
-DevExpress / Telerik
+MongoDB / Redis / ElasticSearch
 <br />
 Design Patterns
+<br />
+Microservices
+<br />
+Git
 
 ## Education
 
