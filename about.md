@@ -7,7 +7,7 @@ comments: false
 
 Hello World, I am Deniz Kısır.
 <br />
-I am software developer that working using .net technologies. I am based in İzmir, Türkiye.
+I am a software developer works with .net technologies. I am based in İzmir, Türkiye.
 
 ## About this Site
 
