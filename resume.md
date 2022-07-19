@@ -33,9 +33,15 @@ Bachelor's Degree - Computer Engineering
 
 ## Work Experience
 
+EPAM Systems
+<br />
+06.2022 - Present
+<br />
+Software Developer
+
 Inveon
 <br />
-05.2021 - Present
+05.2021 - 06.2022
 <br />
 Senior Software Developer
 
