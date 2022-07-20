@@ -19,6 +19,8 @@ SQL Server / MySQL
 <br />
 MongoDB / Redis / ElasticSearch
 <br />
+RabbitMQ
+<br />
 Design Patterns
 <br />
 Microservices
