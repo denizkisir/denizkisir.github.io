@@ -69,7 +69,6 @@ Software Development Specialist
 Software Developer
 
 ## Certifications
-
-
+<br/>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1139e13-c604-49ea-b120-60ac5ffa2097" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
