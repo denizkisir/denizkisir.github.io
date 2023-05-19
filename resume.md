@@ -9,7 +9,7 @@ comments: false
 
 C#
 <br />
-.NET 5 / .NET Core 3.1
+.NET 7 / .NET 5 / .NET Core 3.1
 <br />
 MVC / Web API
 <br />
@@ -26,6 +26,8 @@ Design Patterns
 Microservices
 <br />
 Git
+<br />
+Docker
 
 ## Education
 
@@ -35,9 +37,15 @@ Bachelor's Degree - Computer Engineering
 
 ## Work Experience
 
+thecodebaseio
+<br />
+04.2023 - Present
+<br />
+Senior Software Developer
+
 EPAM Systems
 <br />
-06.2022 - Present
+06.2022 - 04.2023
 <br />
 Software Developer
 
