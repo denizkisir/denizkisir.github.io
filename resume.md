@@ -15,7 +15,7 @@ MVC / Web API
 <br />
 Entity Framework / LINQ
 <br />
-SQL Server / MySQL
+SQL Server / MySQL / PostgreSQL
 <br />
 MongoDB / Redis / ElasticSearch
 <br />
