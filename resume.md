@@ -47,7 +47,7 @@ EPAM Systems
 <br />
 06.2022 - 04.2023
 <br />
-Software Developer
+Senior Software Developer
 
 Inveon
 <br />
@@ -60,14 +60,14 @@ Advanco SA
 <br />
 02.2020 - 05.2021
 <br />
-Software Developer
+Senior Software Developer
 
 
 OTI Holding
 <br />
 05.2017 - 10.2019
 <br />
-Software Development Specialist
+Senior Software Developer
 
 
 5A Software Solutions
