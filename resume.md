@@ -41,7 +41,7 @@ thecodebaseio
 <br />
 04.2023 - Present
 <br />
-Senior Software Developer
+Backend Team Lead
 
 EPAM Systems
 <br />
