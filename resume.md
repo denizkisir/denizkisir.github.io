@@ -39,7 +39,7 @@ Bachelor's Degree - Computer Engineering
 
 thecodebaseio
 <br />
-04.2023 - Present
+04.2023 - 03.2024
 <br />
 Backend Team Lead
 
