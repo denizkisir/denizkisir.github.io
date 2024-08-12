@@ -36,6 +36,11 @@ Bachelor's Degree - Computer Engineering
 (2009 - 2013) - Suleyman Demirel University
 
 ## Work Experience
+Burgan Bank
+<br />
+08.2024 - Present
+<br />
+Software Architect
 
 thecodebaseio
 <br />
