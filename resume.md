@@ -9,7 +9,7 @@ comments: false
 
 C#
 <br />
-.NET 7 / .NET 5 / .NET Core 3.1
+.NET
 <br />
 MVC / Web API
 <br />
